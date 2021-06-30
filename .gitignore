@@ -2,3 +2,4 @@
 venv
 .cache
 config
+__pycache__
